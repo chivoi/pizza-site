@@ -1,0 +1,27 @@
+@import url(normalize.css);
+.nav-header {
+  background-color: #91afdf;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between nav;
+    justify-content-margin-right: 1rem; }
+  .nav-header img {
+    height: 50px;
+    width: 50px; }
+
+.nav-items {
+  width: 65%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  .nav-items a {
+    color: #7c2c0a;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-right: 10px;
+    border-right: 2px solid #7c2c0a; }
+  .nav-items a:hover {
+    color: #fc800d;
+    text-decoration: underline; }
+
+/*# sourceMappingURL=main.css.map */
